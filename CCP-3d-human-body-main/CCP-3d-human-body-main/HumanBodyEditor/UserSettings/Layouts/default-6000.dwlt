@@ -100,7 +100,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 100}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-  controlID: 97
+  controlID: 103
   draggingID: 0
 --- !u!114 &5
 MonoBehaviour:
@@ -142,12 +142,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 690
+    width: 736.6667
     height: 786.6667
   m_MinSize: {x: 100, y: 100}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 24
+  controlID: 25
   draggingID: 0
 --- !u!114 &7
 MonoBehaviour:
@@ -164,9 +164,9 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 690
+    x: 736.6667
     y: 0
-    width: 211.33331
+    width: 164.66663
     height: 786.6667
   m_MinSize: {x: 202, y: 226}
   m_MaxSize: {x: 4002, y: 4026}
@@ -192,7 +192,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 901.3333
     y: 0
-    width: 198.66669
+    width: 232.66669
     height: 786.6667
   m_MinSize: {x: 232, y: 276}
   m_MaxSize: {x: 10002, y: 10026}
@@ -216,9 +216,9 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 1100
+    x: 1134
     y: 0
-    width: 393.33337
+    width: 359.33337
     height: 786.6667
   m_MinSize: {x: 276, y: 76}
   m_MaxSize: {x: 4001, y: 4026}
@@ -245,8 +245,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 690
-    height: 245.33333
+    width: 736.6667
+    height: 295.33334
   m_MinSize: {x: 201, y: 226}
   m_MaxSize: {x: 4001, y: 4026}
   m_ActualView: {fileID: 17}
@@ -270,9 +270,9 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 245.33333
-    width: 690
-    height: 541.3334
+    y: 295.33334
+    width: 736.6667
+    height: 491.33334
   m_MinSize: {x: 201, y: 226}
   m_MaxSize: {x: 4001, y: 4026}
   m_ActualView: {fileID: 16}
@@ -301,9 +301,9 @@ MonoBehaviour:
     m_TextWithWhitespace: "Console\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 1100
+    x: 1134
     y: 78.66667
-    width: 392.33337
+    width: 358.33337
     height: 760.6667
   m_SerializedDataModeController:
     m_DataMode: 0
@@ -337,9 +337,9 @@ MonoBehaviour:
     m_TextWithWhitespace: "Hierarchy\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 690
+    x: 736.6667
     y: 78.66667
-    width: 209.33331
+    width: 162.66663
     height: 760.6667
   m_SerializedDataModeController:
     m_DataMode: 0
@@ -355,23 +355,23 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: d876ffff
-      m_LastClickedID: -35112
-      m_ExpandedIDs: eea6ffff26a9ffff2a8300009a830000ec850000
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: ecd1ffff28d5ffff14fbfffff274000062750000bc77000030840000a0840000b8840000fa84000092850000fa860000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
+        m_Name: Spot Light (3)
+        m_OriginalName: Spot Light (3)
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 0
+        m_UserData: -40616
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 11
+        m_OriginalEventType: 0
         m_IsRenamingFilename: 0
         m_TrimLeadingAndTrailingWhitespace: 0
         m_ClientGUIView: {fileID: 7}
@@ -403,9 +403,9 @@ MonoBehaviour:
     m_TextWithWhitespace: "Inspector\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 1100
+    x: 1134
     y: 78.66667
-    width: 392.33337
+    width: 358.33337
     height: 760.6667
   m_SerializedDataModeController:
     m_DataMode: 0
@@ -454,7 +454,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 901.3334
     y: 78.66667
-    width: 196.66669
+    width: 230.66669
     height: 760.6667
   m_SerializedDataModeController:
     m_DataMode: 0
@@ -488,14 +488,14 @@ MonoBehaviour:
   m_StartGridSize: 64
   m_LastFolders: []
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\rumai\Downloads\CCP-3d-human-body-main\CCP-3d-human-body-main\HumanBodyEditor
+  m_LastProjectPath: C:\Users\rumai\OneDrive\Documents\GitHub\HackathonSHN\CCP-3d-human-body-main\CCP-3d-human-body-main\HumanBodyEditor
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: b0230000
     m_LastClickedID: 9136
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 00000000f277000050780000527800005478000056780000587800005a780000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -524,21 +524,21 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff00000000f6800000f88000006c8200009482000096820000988200009a820000
+    m_ExpandedIDs: ffffffff00000000f277000050780000527800005478000056780000587800005a780000dc780000a68e0000149e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: Kidneys
+      m_OriginalName: Kidneys
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: -20094
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 1
       m_TrimLeadingAndTrailingWhitespace: 0
       m_ClientGUIView: {fileID: 8}
@@ -587,9 +587,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 324
-    width: 689
-    height: 515.3334
+    y: 374
+    width: 735.6667
+    height: 465.33334
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -631,8 +631,8 @@ MonoBehaviour:
     m_VAllowExceedBaseRangeMin: 1
     m_VAllowExceedBaseRangeMax: 1
     m_ScaleWithWindow: 0
-    m_HSlider: 0
-    m_VSlider: 0
+    m_HSlider: 1
+    m_VSlider: 1
     m_IgnoreScrollWheelUntilClicked: 0
     m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
@@ -643,10 +643,10 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 21
-      width: 689
-      height: 494.33337
-    m_Scale: {x: 0.7565886, y: 0.7565886}
-    m_Translation: {x: 344.5, y: 247.16669}
+      width: 735.6667
+      height: 444.33334
+    m_Scale: {x: 0.884446, y: 0.884446}
+    m_Translation: {x: 402.71777, y: 226.41818}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
@@ -654,12 +654,12 @@ MonoBehaviour:
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
       x: -455.33334
-      y: -326.68573
-      width: 910.6667
-      height: 653.37146
+      y: -256
+      width: 831.7825
+      height: 502.38605
     m_MinimalGUI: 1
-  m_defaultScale: 0.7565886
-  m_LastWindowPixelSize: {x: 1033.5, y: 773.00006}
+  m_defaultScale: 0.8078331
+  m_LastWindowPixelSize: {x: 1103.5, y: 698}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 00000000000000000000
@@ -689,8 +689,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 78.66667
-    width: 689
-    height: 219.33333
+    width: 735.6667
+    height: 269.33334
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -803,12 +803,12 @@ MonoBehaviour:
       displayed: 1
       id: Orientation
       index: 0
-      contents: '{"m_Layout":4,"m_Collapsed":false,"m_Folded":false,"m_Floating":false,"m_FloatingSnapOffset":{"x":67.5,"y":-174.66665649414063},"m_SnapOffsetDelta":{"x":0.0,"y":0.0},"m_FloatingSnapCorner":2,"m_Size":{"x":0.0,"y":0.0},"m_SizeOverridden":false}'
+      contents: '{"m_Layout":4,"m_Collapsed":false,"m_Folded":false,"m_Floating":false,"m_FloatingSnapOffset":{"x":67.5,"y":45.333343505859378},"m_SnapOffsetDelta":{"x":0.0,"y":0.0},"m_FloatingSnapCorner":0,"m_Size":{"x":0.0,"y":0.0},"m_SizeOverridden":false}'
       floating: 0
       collapsed: 0
-      snapOffset: {x: 67.5, y: -174.66666}
+      snapOffset: {x: 67.5, y: 45.333344}
       snapOffsetDelta: {x: 0, y: 0}
-      snapCorner: 2
+      snapCorner: 0
       layout: 4
       size: {x: 0, y: 0}
       sizeOverridden: 0
@@ -1178,7 +1178,7 @@ MonoBehaviour:
       sizeOverridden: 0
     m_ContainerData:
     - containerId: overlay-toolbar__top
-      scrollOffset: 0
+      scrollOffset: 50.666687
     - containerId: overlay-toolbar__left
       scrollOffset: 0
     - containerId: overlay-container--left
@@ -1203,9 +1203,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 328.29654, y: 519.8785, z: 320.14453}
+    m_Target: {x: 0.09417218, y: 0.21325329, z: -0.08591658}
     speed: 2
-    m_Value: {x: 328.29654, y: 519.8785, z: 320.14453}
+    m_Value: {x: 0.09417218, y: 0.21325329, z: -0.08591658}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1251,20 +1251,20 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.07740764, y: 0.2567409, z: 0.020616047, w: 0.96318275}
+    m_Target: {x: 0.17006569, y: -0.14576028, z: 0.02543693, w: 0.9742968}
     speed: 2
-    m_Value: {x: -0.07738491, y: 0.25769702, z: 0.020692887, w: 0.9628997}
+    m_Value: {x: 0.17008512, y: -0.14478093, z: 0.025265982, w: 0.97440815}
   m_Size:
-    m_Target: 392.75015
+    m_Target: 0.8762498
     speed: 2
-    m_Value: 411.2567
+    m_Value: 0.91753906
   m_Ortho:
     m_Target: 0
     speed: 2
     m_Value: 0
   m_CameraSettings:
-    m_Speed: 1
-    m_SpeedNormalized: 0.5
+    m_Speed: 0.8855999
+    m_SpeedNormalized: 0.43999997
     m_SpeedMin: 0.01
     m_SpeedMax: 2
     m_EasingEnabled: 1
